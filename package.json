@@ -1,0 +1,20 @@
+{
+  "name": "ai-kit",
+  "version": "1.0.0",
+  "description": "`ai-kit` is a powerful and easy-to-use Javascript library designed to enhance your AI programming experience, specifically tailored for working with OpenAI. This library simplifies the process of querying OpenAI, extracting information, and performing various AI-related tasks. It contains a collection of creative and handy functions that can be used in a wide range of applications, such as chatbots, AI-driven content generation, SEO, and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hero",
+    "ai",
+    "kit",
+    "tools",
+    "OpenAI",
+    "SEO",
+    "api"
+  ],
+  "author": "Hero",
+  "license": "MIT"
+}
